@@ -18,6 +18,12 @@
         "description": " báo đường cấm tất cả các loại xe cơ giới kể cả môtô 3 bánh có thùng đi qua, trừ môtô hai bánh, xe gắn máy và các xe được ưu tiên theo quy định"
     },
     {
+        "trafficid": "-14-",
+        "image": "/static/image/bien-bao-cam-101.jpg",
+        "name": "Biển số 103a \"Cấm ô tô\"",
+        "description": " Biển báo 101"
+    },
+    {
         "trafficid": "1000",
         "image": "/static/image/bien-bao-cam-103b.jpg",
         "name": "Biển số 103b \"Cấm ô tô rẽ phải\"",
